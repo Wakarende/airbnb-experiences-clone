@@ -1,0 +1,21 @@
+
+.Grid{
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%,-50%);
+}
+
+.Content{
+  position: absolute;
+  top: 600px;
+  left: 36px;
+  
+}
+.Title{
+  font-family: 'Manrope', sans-serif;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  line-height: 110%;
+  font-size: 46px;
+}
