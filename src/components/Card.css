@@ -1,0 +1,25 @@
+
+
+.cards{
+  position: relative;
+  top: 812px;
+  padding:20px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.card-img{
+  background-image: url(.//img/woman.png);
+  width: 264px;
+  height: 353px;
+}
+.star{
+  width: 14px;
+  height: 14px;
+}
+
+.card--rating{
+  display: flex;
+  align-items: center;
+  margin-top: 10px;
+}
