@@ -8,6 +8,7 @@ import photogrid from '../img/photogrid.png'
 //   )
 // }
 function Hero () {
+  console.log(photogrid);
   return(
     <section className="Hero">
       <img src={photogrid} alt='photogrid' className="Grid"></img>
