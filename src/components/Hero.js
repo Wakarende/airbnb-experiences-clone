@@ -1,6 +1,6 @@
 import React from "react";
 import './Hero.css'
-import photogrid from './/img/photogrid.png'
+import photogrid from '../img/photogrid.png'
 
 // const Hero = () => {
 //   return(

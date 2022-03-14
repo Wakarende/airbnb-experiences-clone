@@ -9,10 +9,12 @@
 }
 
 .card-img{
-  background-image: url(.//img/woman.png);
+  /* background-image: url(.//img/woman.png); */
   width: 264px;
   height: 353px;
 }
+
+
 .star{
   width: 14px;
   height: 14px;
